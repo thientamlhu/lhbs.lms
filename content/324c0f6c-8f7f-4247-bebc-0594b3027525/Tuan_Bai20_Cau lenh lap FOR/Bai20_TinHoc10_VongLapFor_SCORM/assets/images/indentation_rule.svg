@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#1e293b" rx="12" />
+  
+  <text x="30" y="32" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">
+    QUY TẮC CÚ PHÁP BẮT BUỘC TRONG PYTHON
+  </text>
+
+  <!-- Code window frame -->
+  <g transform="translate(30, 48)">
+    <rect width="540" height="160" rx="8" fill="#0f172a" stroke="#334155" />
+    
+    <!-- Code line 1 -->
+    <text x="20" y="35" font-family="monospace" font-size="15" fill="#f43f5e" font-weight="bold">for</text>
+    <text x="60" y="35" font-family="monospace" font-size="15" fill="#e2e8f0"> i </text>
+    <text x="85" y="35" font-family="monospace" font-size="15" fill="#f43f5e" font-weight="bold">in</text>
+    <text x="110" y="35" font-family="monospace" font-size="15" fill="#38bdf8"> range</text>
+    <text x="160" y="35" font-family="monospace" font-size="15" fill="#e2e8f0">(5)</text>
+    <text x="185" y="35" font-family="monospace" font-size="18" fill="#f59e0b" font-weight="bold">:</text>
+
+    <!-- Colon pointer -->
+    <path d="M 215 32 L 270 32" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="3,3" />
+    <rect x="275" y="18" width="240" height="28" rx="4" fill="#78350f" stroke="#f59e0b" />
+    <text x="285" y="36" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#fef3c7">
+      BẮT BUỘC CÓ DẤU HAI CHẤM (:)
+    </text>
+
+    <!-- Indentation block -->
+    <rect x="20" y="65" width="45" height="30" fill="#334155" rx="3" stroke="#64748b" stroke-dasharray="2,2" />
+    <text x="25" y="85" font-family="monospace" font-size="11" fill="#94a3b8">4 cách</text>
+
+    <!-- Code line 2 -->
+    <text x="75" y="85" font-family="monospace" font-size="15" fill="#38bdf8">print</text>
+    <text x="120" y="85" font-family="monospace" font-size="15" fill="#e2e8f0">("Chào bạn lần thứ", i)</text>
+
+    <!-- Indent pointer -->
+    <path d="M 42 100 L 42 125 L 110 125" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3,3" fill="none" />
+    <rect x="115" y="110" width="400" height="30" rx="4" fill="#0c4a6e" stroke="#38bdf8" />
+    <text x="125" y="129" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#e0f2fe">
+      KHỐI LỆNH CON BẮT BUỘC THỤT LỀ (INDENTATION) 4 DẤU CÁCH HOẶC 1 TAB
+    </text>
+  </g>
+</svg>
