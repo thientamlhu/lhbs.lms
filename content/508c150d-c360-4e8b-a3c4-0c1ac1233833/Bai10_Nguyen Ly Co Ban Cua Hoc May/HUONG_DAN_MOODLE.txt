@@ -1,0 +1,26 @@
+========================================================================
+HƯỚNG DẪN TẢI GÓI HỌC TẬP SCORM LÊN HỆ THỐNG LMS MOODLE
+Ứng dụng: ML EXPLORER 12 – BÀI 10. NGUYÊN LÍ CƠ BẢN CỦA HỌC MÁY
+Môn học: Trí tuệ nhân tạo (Tin học 12)
+========================================================================
+
+CÁC BƯỚC ĐƯA LÊN MOODLE DÀNH CHO THẦY/CÔ GIÁO:
+1. Đăng nhập vào khóa học trên Moodle với vai trò Giáo viên hoặc Quản trị viên.
+2. Bật chế độ chỉnh sửa (Turn editing on).
+3. Tại tuần/chủ đề bài học tương ứng (Bài 10 - AI 12), nhấn "+ Thêm hoạt động hoặc tài nguyên" (+ Add an activity or resource).
+4. Chọn loại hoạt động: "Gói SCORM" (SCORM package).
+5. Đặt tên hoạt động: "Bài 10: Nguyên lí cơ bản của Học máy - Ứng dụng tương tác".
+6. Kéo thả tệp nén .zip này vào mục "Gói tệp" (Package file).
+7. Thiết lập Đánh giá (Grade):
+   - Phương pháp đánh giá (Grading method): Điểm cao nhất (Highest grade) hoặc Điểm trung bình.
+   - Thang điểm tối đa (Maximum grade): 10 điểm (Mô hình sẽ tự động đồng bộ điểm thi 10 câu sang sổ điểm Moodle).
+8. Thiết lập Giao diện (Appearance):
+   - Hiển thị gói (Display package): Cửa sổ hiện tại (Current window) hoặc Cửa sổ mới (New window).
+9. Nhấn "Lưu và trở về khóa học" (Save and return to course).
+
+TÍNH NĂNG TỰ ĐỘNG ĐÃ TÍCH HỢP ĐẦY ĐỦ:
+✓ Tự động nhận diện Họ và tên học sinh từ tài khoản Moodle (cmi.core.student_name).
+✓ Ghi nhận trạng thái hoàn thành bài học (cmi.core.lesson_status: passed/completed).
+✓ Đồng bộ điểm bài kiểm tra 10 điểm vào Sổ điểm Moodle (cmi.core.score.raw).
+✓ ĐẦY ĐỦ NỘI DUNG: 8 module bài học, 20 câu hỏi luyện tập (40% nhận biết, 30% thông hiểu, 30% vận dụng), 10 câu trắc nghiệm cuối bài, Phòng thí nghiệm tương tác Hồi quy/Phân loại, Trợ giảng AI ML Buddy ngoại tuyến.
+✓ 100% độc lập, không yêu cầu cài đặt phần mềm phụ hay máy chủ bên ngoài. Có thể giải nén và mở tệp index.html trên máy tính cá nhân để dùng ngay!
