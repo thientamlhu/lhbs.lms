@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 340" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#ffffff" rx="12" stroke="#e2e8f0" stroke-width="1.5" />
+
+  <text x="325" y="32" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#0f172a">
+    QUY TẮC HOẠT ĐỘNG CỦA LỆNH RANGE() TRONG PYTHON
+  </text>
+
+  <!-- Form 1: range(n) -->
+  <g transform="translate(30, 50)">
+    <rect width="590" height="70" rx="8" fill="#f0fdf4" stroke="#86efac" />
+    <text x="20" y="25" font-family="monospace" font-size="14" font-weight="bold" fill="#15803d">1. range(n)  ➔  Từ 0 đến n - 1 (gồm n phần tử)</text>
+    <text x="20" y="48" font-family="-apple-system, sans-serif" font-size="12" fill="#166534">Ví dụ: <tspan font-family="monospace" font-weight="bold">range(5)</tspan> sinh ra dãy:</text>
+    <!-- Values -->
+    <g transform="translate(200, 32)">
+      <rect x="0" y="0" width="30" height="26" rx="4" fill="#22c55e" /><text x="15" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">0</text>
+      <rect x="36" y="0" width="30" height="26" rx="4" fill="#22c55e" /><text x="51" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">1</text>
+      <rect x="72" y="0" width="30" height="26" rx="4" fill="#22c55e" /><text x="87" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">2</text>
+      <rect x="108" y="0" width="30" height="26" rx="4" fill="#22c55e" /><text x="123" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">3</text>
+      <rect x="144" y="0" width="30" height="26" rx="4" fill="#22c55e" /><text x="159" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">4</text>
+      <text x="190" y="18" font-family="-apple-system, sans-serif" font-size="11" fill="#dc2626" font-weight="bold">(Dừng trước 5! Không lấy 5)</text>
+    </g>
+  </g>
+
+  <!-- Form 2: range(start, stop) -->
+  <g transform="translate(30, 135)">
+    <rect width="590" height="75" rx="8" fill="#eff6ff" stroke="#93c5fd" />
+    <text x="20" y="25" font-family="monospace" font-size="14" font-weight="bold" fill="#1d4ed8">2. range(start, stop)  ➔  Từ start đến stop - 1</text>
+    <text x="20" y="48" font-family="-apple-system, sans-serif" font-size="12" fill="#1e40af">Ví dụ: <tspan font-family="monospace" font-weight="bold">range(2, 6)</tspan> sinh ra dãy:</text>
+    <g transform="translate(200, 32)">
+      <rect x="0" y="0" width="30" height="26" rx="4" fill="#3b82f6" /><text x="15" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">2</text>
+      <rect x="36" y="0" width="30" height="26" rx="4" fill="#3b82f6" /><text x="51" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">3</text>
+      <rect x="72" y="0" width="30" height="26" rx="4" fill="#3b82f6" /><text x="87" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">4</text>
+      <rect x="108" y="0" width="30" height="26" rx="4" fill="#3b82f6" /><text x="123" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">5</text>
+      <text x="150" y="18" font-family="-apple-system, sans-serif" font-size="11" fill="#dc2626" font-weight="bold">(Bắt đầu từ 2, dừng trước 6)</text>
+    </g>
+  </g>
+
+  <!-- Form 3: range(start, stop, step) -->
+  <g transform="translate(30, 225)">
+    <rect width="590" height="85" rx="8" fill="#fffbeb" stroke="#fcd34d" />
+    <text x="20" y="25" font-family="monospace" font-size="14" font-weight="bold" fill="#b45309">3. range(start, stop, step)  ➔  Bước nhảy là step</text>
+    <text x="20" y="48" font-family="-apple-system, sans-serif" font-size="12" fill="#92400e">Ví dụ: <tspan font-family="monospace" font-weight="bold">range(1, 10, 2)</tspan> (Dãy số lẻ &lt; 10):</text>
+    <g transform="translate(240, 32)">
+      <rect x="0" y="0" width="30" height="26" rx="4" fill="#f59e0b" /><text x="15" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">1</text>
+      <rect x="40" y="0" width="30" height="26" rx="4" fill="#f59e0b" /><text x="55" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">3</text>
+      <rect x="80" y="0" width="30" height="26" rx="4" fill="#f59e0b" /><text x="95" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">5</text>
+      <rect x="120" y="0" width="30" height="26" rx="4" fill="#f59e0b" /><text x="135" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">7</text>
+      <rect x="160" y="0" width="30" height="26" rx="4" fill="#f59e0b" /><text x="175" y="18" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">9</text>
+      <text x="205" y="18" font-family="-apple-system, sans-serif" font-size="11" fill="#b45309" font-weight="bold">(Mỗi bước cộng thêm 2)</text>
+    </g>
+  </g>
+</svg>
