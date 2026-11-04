@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="TinHoc10_Bai20_VongLapFor_SCORM" version="1.2"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.imsmd.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="KNTT_TH10_ORG">
+    <organization identifier="KNTT_TH10_ORG">
+      <title>Tin học 10 - Bài 20: Câu lệnh lặp for (Kết nối tri thức)</title>
+      <item identifier="ITEM_BAI_20_FOR" identifierref="RES_BAI_20_FOR" isvisible="true">
+        <title>Bài 20: Câu lệnh lặp for - Vùng giá trị range() (Tin học 10 KNTT)</title>
+        <adlcp:masteryscore>50</adlcp:masteryscore>
+        <adlcp:datafromlms></adlcp:datafromlms>
+        <adlcp:timelimitaction>continue,no message</adlcp:timelimitaction>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES_BAI_20_FOR" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html" />
+      <file href="Bai20_TinHoc10_VongLapFor_LMS.html" />
+      <file href="scorm_api_wrapper.js" />
+      <file href="adlcp_rootv1p2.xsd" />
+      <file href="imscp_rootv1p1p2.xsd" />
+      <file href="imsmd_rootv1p2p1.xsd" />
+      <file href="ims_xml.xsd" />
+      <file href="HUONG_DAN_MOODLE.txt" />
+      <file href="HUONG_DAN_GIAO_VIEN.txt" />
+      <file href="saved_students.json" />
+      <file href="assets/index-D7zEQjrp.css" />
+      <file href="assets/logo-DnOWHqUD.svg" />
+      <file href="assets/index-LFWASQdx.js" />
+      <file href="assets/audio/click.wav" />
+      <file href="assets/audio/complete.wav" />
+      <file href="assets/audio/correct.wav" />
+      <file href="assets/audio/wrong.wav" />
+      <file href="assets/images/flowchart_for.svg" />
+      <file href="assets/images/indentation_rule.svg" />
+      <file href="assets/images/logo.svg" />
+      <file href="assets/images/range_diagram.svg" />
+    </resource>
+  </resources>
+</manifest>
