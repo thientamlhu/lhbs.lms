@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Optimization Lab - Bài 11 Tin học 12</title>
+    <meta name="description" content="Phòng thí nghiệm tương tác học tập Bài 11: Tối ưu hoá mô hình (Hàm mất mát MSE, Gradient Descent, Learning Rate) - Môn Trí tuệ nhân tạo Lớp 12 GDPT 2018." />
+    <meta property="og:title" content="AI Optimization Lab - Bài 11 Tin học 12" />
+    <meta property="og:description" content="Phòng thí nghiệm tương tác học tập Bài 11: Tối ưu hoá mô hình (Hàm mất mát MSE, Gradient Descent, Learning Rate) - Môn Trí tuệ nhân tạo Lớp 12 GDPT 2018." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="./assets/index-BSWM6t_0.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-meaXTBen.css">
+  
+    <!-- Guard chống màn hình trắng khi mở trực tiếp file:// trên Chrome/Edge -->
+    <script>
+      (function() {
+        if (window.location.protocol === 'file:') {
+          window.addEventListener('DOMContentLoaded', function() {
+            setTimeout(function() {
+              var root = document.getElementById('root');
+              if (!root || root.children.length === 0) {
+                var overlay = document.createElement('div');
+                overlay.style.cssText = 'position:fixed;inset:0;background:#020617;color:#f8fafc;display:flex;align-items:center;justify-content:center;font-family:system-ui,-apple-system,sans-serif;padding:24px;z-index:99999;';
+                overlay.innerHTML = '<div style="max-width:580px;background:#0f172a;border:1px solid #00b7d7;border-radius:20px;padding:32px;text-align:center;box-shadow:0 25px 50px rgba(0,0,0,0.8);">' +
+                  '<div style="font-size:36px;margin-bottom:12px;">🔬</div>' +
+                  '<h2 style="color:#38bdf8;margin:0 0 12px;font-size:22px;font-weight:bold;">AI OPTIMIZATION LAB - BÀI 11</h2>' +
+                  '<p style="font-size:14px;color:#94a3b8;line-height:1.6;margin-bottom:20px;">Trình duyệt của bạn đang chặn script qua giao thức <code>file://</code> vì cơ chế bảo mật CORS nội bộ của Chrome/Edge.</p>' +
+                  '<a href="./chay_truc_tiep_khong_can_server.html" style="display:inline-block;background:#0284c7;color:#ffffff;font-weight:bold;text-decoration:none;padding:14px 28px;border-radius:12px;font-size:15px;box-shadow:0 4px 14px rgba(2,132,199,0.4);margin-bottom:16px;">🚀 Nhấp vào đây để mở bản Chạy Trực Tiếp</a>' +
+                  '<div style="color:#64748b;font-size:12px;margin-top:12px;">Hoặc nhấp đúp vào file <b>chay_offline.bat</b> có sẵn trong thư mục để mở tốc độ cao.</div>' +
+                  '</div>';
+                document.body.appendChild(overlay);
+              }
+            }, 700);
+          });
+        }
+      })();
+    </script>
+
+  </head>
+  <body class="bg-slate-950 text-slate-100 font-sans antialiased selection:bg-cyan-500 selection:text-slate-950">
+    <div id="root"></div>
+  </body>
+</html>
