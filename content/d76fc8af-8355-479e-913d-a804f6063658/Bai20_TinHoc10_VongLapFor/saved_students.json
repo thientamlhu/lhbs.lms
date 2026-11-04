@@ -1,0 +1,3547 @@
+[
+  {
+    "id": "00000000",
+    "name": "Test",
+    "class": "10AV1",
+    "progress": 78,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 8,
+      "exam": 0
+    },
+    "totalScore": 8,
+    "practiceCount": 8,
+    "examCount": 0,
+    "weakAreas": [
+      "Khởi tạo biến cộng dồn",
+      "range với bước nhảy âm",
+      "Kỹ năng viết code vòng lặp (Luyện tập)",
+      "Nhầm lẫn cận trên stop-1 của range()"
+    ],
+    "lastActive": "Vừa mới học"
+  },
+  {
+    "id": "19100196",
+    "name": "Đặng Nguyễn Phương Anh",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Chưa vào học"
+  },
+  {
+    "id": "17100024",
+    "name": "Huỳnh Nguyễn Ngọc Anh",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100054",
+    "name": "Võ Huỳnh Nhã Anh",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100155",
+    "name": "Trần Nguyệt Cát",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100048",
+    "name": "Bùi Minh Đức",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100029",
+    "name": "Khúc Hương Giang",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200017",
+    "name": "Nguyễn Hồng Hải",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "18100225",
+    "name": "Lương Ngọc Gia Hân",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100099",
+    "name": "Lý Trần Bảo Hân",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100118",
+    "name": "Giang Tiểu Hào",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200013",
+    "name": "Mai Nhị Hương",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "21100219",
+    "name": "Khiếu Khải Khang",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100127",
+    "name": "Huỳnh Anh Khoa",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200010",
+    "name": "Lê Anh Khoa",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100139",
+    "name": "Nguyễn Gia Linh",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200048",
+    "name": "Nguyễn Ngọc Thùy Linh",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200030",
+    "name": "Lâm Nhật Luân",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100008",
+    "name": "Nguyễn Đức Quỳnh Mai",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100167",
+    "name": "Trần Khải Minh",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200018",
+    "name": "Nguyễn Ngọc Trà My",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100219",
+    "name": "Nguyễn Vũ Hà My",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100144",
+    "name": "Nguyễn Trần Khánh Ngọc",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100075",
+    "name": "Trần Khôi Nguyên",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100047",
+    "name": "Phạm Nguyễn Thiên Nhã",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "25200051",
+    "name": "Nguyễn Ngọc Hạnh Nhi",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100072",
+    "name": "Nguyễn Cát Tường Như",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200006",
+    "name": "Nguyễn Trung Minh Phúc",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100134",
+    "name": "Nguyễn Đức Minh Quân",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100073",
+    "name": "Nguyễn Phúc Minh Quân",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100166",
+    "name": "Trương Lê Xuân Thủy",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100183",
+    "name": "Ngô Ái Vy",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100023",
+    "name": "Nguyễn Trần Bảo Vy",
+    "class": "10AV1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100132",
+    "name": "Đỗ Phương Anh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "21100206",
+    "name": "Mã Phi Anh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100149",
+    "name": "Mai Vũ Quỳnh Anh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300074",
+    "name": "Đào Hải Băng",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100010",
+    "name": "Nguyễn Tấn Đạt",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300031",
+    "name": "Vũ Phạm Minh Đức",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200014",
+    "name": "Nguyễn Phan Quỳnh Giao",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100027",
+    "name": "Trần Gia Hân",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "24200041",
+    "name": "Trần Thiên Hào",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "23200067",
+    "name": "Nguyễn Huy",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100051",
+    "name": "Mai Võ Minh Khang",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "18100196",
+    "name": "Nguyễn Đăng Khánh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100078",
+    "name": "Nguyễn Trung Khánh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100036",
+    "name": "Võ Nguyễn Đăng Khôi",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100141",
+    "name": "Nguyễn Phương Linh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300037",
+    "name": "Trần Đắc Lộc",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100169",
+    "name": "Trần Gia Lộc",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100143",
+    "name": "Vũ Lê Ngọc Mai",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100124",
+    "name": "Lương Trần Uyên My",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100004",
+    "name": "Vũ Hoàng Kim Ngọc",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100147",
+    "name": "Phạm Hồ Thảo Nguyên",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100026",
+    "name": "Nguyễn Hoàng Uyên Nhã",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200023",
+    "name": "Chu Mẫn Nhi",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100173",
+    "name": "Nguyễn Phương Nhi",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100052",
+    "name": "Mai Võ Minh Phúc",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300040",
+    "name": "Phạm Minh Quang",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100191",
+    "name": "Hoàng Khánh Quỳnh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300004",
+    "name": "Võ Văn Thiên Thành",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100009",
+    "name": "Trần Đức Thịnh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "21100215",
+    "name": "Võ Ngọc Trí",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100079",
+    "name": "Đặng Phúc Trường",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200026",
+    "name": "Nguyễn Phú Vinh",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100123",
+    "name": "Nguyễn Uy Vũ",
+    "class": "10AV2",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "21100251",
+    "name": "Trần Hoàng Anh",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Chưa vào học"
+  },
+  {
+    "id": "17100039",
+    "name": "Mai Quách Gia Bảo",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Chưa vào học"
+  },
+  {
+    "id": "21100220",
+    "name": "Nguyễn Tuấn Bảo",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100053",
+    "name": "Nguyễn Lê Bảo Châu",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300048",
+    "name": "Lý Thành Cơ",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300078",
+    "name": "Nguyễn Vương Uyển Đình",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100138",
+    "name": "Đào Trung Hiếu",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "18100244",
+    "name": "Trương Chấn Hưng",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300072",
+    "name": "Bùi Ngọc Quỳnh Hương",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100018",
+    "name": "Hồ Trương Minh Khải",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100203",
+    "name": "Phạm Lê Minh Khánh",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "18100240",
+    "name": "Nguyễn Huỳnh Đăng Khoa",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "23200077",
+    "name": "Trần Minh Khoa",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100037",
+    "name": "Võ Phi Khoa",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100007",
+    "name": "Lê Trần Minh Khôi",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100016",
+    "name": "Lê Hoàng Thiên Long",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300093",
+    "name": "Nguyễn Đức Gia Long",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300005",
+    "name": "Lê Nguyễn Bảo Minh",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "20100219",
+    "name": "Lê Kim Ngân",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "21100204",
+    "name": "Trương Diệp Nghi",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300102",
+    "name": "Võ Minh Ngọc",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300028",
+    "name": "Huỳnh Lê Bảo Nhân",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "25200037",
+    "name": "Nguyễn Thị Quỳnh Như",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100115",
+    "name": "Trần Ngọc Bảo Như",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100129",
+    "name": "Ngô Hoàng Phát",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300092",
+    "name": "Vũ Phạm Đỗ Quyên",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100265",
+    "name": "Trần Trung Nhật Thành",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "24200038",
+    "name": "Nguyễn Minh Trí",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100171",
+    "name": "Nguyễn Viết Minh Tường",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100011",
+    "name": "Bùi Trần Minh Tuyết",
+    "class": "10AV3",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "20100233",
+    "name": "Vũ Xuân An",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100102",
+    "name": "Nguyễn Hoàng Ngọc Anh",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100137",
+    "name": "Nguyễn Trang Quỳnh Anh",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100239",
+    "name": "Trần Xuân Bảo",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300047",
+    "name": "Nguyễn Thuỵ Phương Di",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "18100283",
+    "name": "Hồ Gia Hào",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100161",
+    "name": "Nguyễn Công Hòa",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300027",
+    "name": "Đỗ Tấn Phúc Hưng",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "18100257",
+    "name": "Đào Đăng Khôi",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "24200036",
+    "name": "Lê Tấn Lộc",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300010",
+    "name": "Nguyễn Toàn Như Mai",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300014",
+    "name": "Vũ Quỳnh Mai",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100033",
+    "name": "Phạm Cao Hải My",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100233",
+    "name": "Vũ Đình Ngôn",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300007",
+    "name": "Nguyễn Thảo Nguyên",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100151",
+    "name": "Nguyễn Thị Yến Nhi",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "23200068",
+    "name": "Nguyễn Gia Phúc",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300002",
+    "name": "Nguyễn Mai Phương",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "24200052",
+    "name": "Phan Dương Ngọc Quỳnh",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100178",
+    "name": "Nguyễn Thành Tài",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100100",
+    "name": "Mai Thanh Tâm",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300012",
+    "name": "Đoàn Nguyễn Kim Thơ",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "22200021",
+    "name": "Nguyễn Thanh Thủy",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300088",
+    "name": "Lưu Bá Khánh Toàn",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100032",
+    "name": "Đặng Ngọc Bảo Trân",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "24200017",
+    "name": "Huỳnh Bảo Trân",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300099",
+    "name": "Thổ Minh Triết",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300077",
+    "name": "Nguyễn Phú Trọng",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300039",
+    "name": "Trịnh Anh Tuấn",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300057",
+    "name": "Hồ Thanh Tùng",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "25200034",
+    "name": "Trần Thị Minh Tuyết",
+    "class": "10AV4",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300023",
+    "name": "Nguyễn Thanh An",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300024",
+    "name": "Lê Hùng Anh",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300038",
+    "name": "Vũ Phạm Hà Anh",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300064",
+    "name": "Hồ Gia Bảo",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300058",
+    "name": "Nguyễn Duy Bảo",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300103",
+    "name": "Phạm Trúc Diệp",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300022",
+    "name": "Phan Minh Đức",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100031",
+    "name": "Thái Hồng Đức",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300089",
+    "name": "Nguyễn Quang Dũng",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100042",
+    "name": "Lê Bảo Hân",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300086",
+    "name": "Phạm Khánh Hưng",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300100",
+    "name": "Nguyễn Thành Nhật Huy",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100022",
+    "name": "Võ Minh Khang",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "25200039",
+    "name": "Huang Mỹ Kỳ",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "23200079",
+    "name": "An Hoàng Uyên Linh",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300003",
+    "name": "Trịnh Ngọc Kim Ngân",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300081",
+    "name": "Phạm Lê Nam Nguyên",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300060",
+    "name": "Hùynh Lê Khánh Nhi",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300066",
+    "name": "Nguyễn Võ Xuân Nhi",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300034",
+    "name": "Nguyễn Thái Hạo Nhiên",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300085",
+    "name": "Bùi Tiến Phát",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300068",
+    "name": "Nguyễn Tấn Phát",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300044",
+    "name": "Nguyễn Xuân Quỳnh",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100101",
+    "name": "Mai Thanh Sơn",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300098",
+    "name": "Trần Quốc Thiên",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "17100258",
+    "name": "Quách Phú Thịnh",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300029",
+    "name": "Đoàn Trần Khánh Thy",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300071",
+    "name": "Đặng Lê Khánh Vy",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300009",
+    "name": "Lê Nguyễn Hoàng Vy",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300065",
+    "name": "Tạ Nguyễn Minh Vy",
+    "class": "10AV5",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300051",
+    "name": "Bùi Hoàng Minh Châu",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300001",
+    "name": "Huỳnh Ngô Bảo Châu",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300035",
+    "name": "Nguyễn Văn Công",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300015",
+    "name": "Lê Bảo Linh Đan",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300017",
+    "name": "Vòng Tuệ Di",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300026",
+    "name": "Lê Quốc Dũng",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300042",
+    "name": "Trần Anh Duy",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300045",
+    "name": "Nguyễn Xuân Hữu",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300094",
+    "name": "Nguyễn Ngọc Trúc Lâm",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300006",
+    "name": "Đỗ Thảo Linh",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300053",
+    "name": "Lê Thanh Long",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300061",
+    "name": "Phạm Thị Thảo My",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300080",
+    "name": "Phạm Thanh Ngân",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300056",
+    "name": "Hồng Nguyên",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300018",
+    "name": "Lương Thế Thành Nhân",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300025",
+    "name": "Phan Ngọc Quỳnh Như",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300087",
+    "name": "Trần Nhất Phong",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300090",
+    "name": "Dương Tấn Sang",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300055",
+    "name": "Trương Thành Tài",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300016",
+    "name": "Nguyễn Ngọc Yến Thanh",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300083",
+    "name": "Nguyễn Hoàng Minh Thảo",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300036",
+    "name": "Lê Thông",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300030",
+    "name": "Phạm Anh Thư",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300013",
+    "name": "Lê Ngọc Khánh Trân",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300046",
+    "name": "Võ Thị Yến Trang",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300096",
+    "name": "Đỗ Thị Thanh Trúc",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300041",
+    "name": "Lê Minh Tú",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300095",
+    "name": "Lê Minh Vy",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300049",
+    "name": "Nguyễn Liêu Khánh Vy",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300032",
+    "name": "Trương Hiền Vy",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300063",
+    "name": "Bùi Ngọc Uyển My",
+    "class": "10AV6",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "26300033",
+    "name": "Trương Thảo Nhi",
+    "class": "vang",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Mới nhập từ Excel"
+  },
+  {
+    "id": "HS1001",
+    "name": "Nguyễn Minh Khang",
+    "class": "10A1",
+    "progress": 100,
+    "scores": {
+      "warmUp": 10,
+      "discovery": 20,
+      "simulation": 20,
+      "practice": 20,
+      "exam": 30
+    },
+    "totalScore": 100,
+    "practiceCount": 5,
+    "examCount": 2,
+    "weakAreas": [],
+    "lastActive": "10 phút trước"
+  },
+  {
+    "id": "HS1002",
+    "name": "Trần Mai Anh",
+    "class": "10A1",
+    "progress": 88,
+    "scores": {
+      "warmUp": 10,
+      "discovery": 20,
+      "simulation": 20,
+      "practice": 18,
+      "exam": 26
+    },
+    "totalScore": 94,
+    "practiceCount": 4,
+    "examCount": 1,
+    "weakAreas": [
+      "Nhầm lẫn cận trên stop-1 của range()"
+    ],
+    "lastActive": "25 phút trước"
+  },
+  {
+    "id": "HS1003",
+    "name": "Lê Bảo Nam",
+    "class": "10Tin",
+    "progress": 95,
+    "scores": {
+      "warmUp": 10,
+      "discovery": 20,
+      "simulation": 20,
+      "practice": 20,
+      "exam": 28
+    },
+    "totalScore": 98,
+    "practiceCount": 6,
+    "examCount": 2,
+    "weakAreas": [],
+    "lastActive": "1 giờ trước"
+  },
+  {
+    "id": "HS1004",
+    "name": "Phạm Hoàng Yến",
+    "class": "10A2",
+    "progress": 75,
+    "scores": {
+      "warmUp": 10,
+      "discovery": 20,
+      "simulation": 15,
+      "practice": 16,
+      "exam": 22
+    },
+    "totalScore": 83,
+    "practiceCount": 3,
+    "examCount": 1,
+    "weakAreas": [
+      "Lỗi thụt đầu dòng (IndentationError)",
+      "Vòng lặp lồng nhau"
+    ],
+    "lastActive": "2 giờ trước"
+  },
+  {
+    "id": "HS1005",
+    "name": "Đỗ Quốc Huy",
+    "class": "10A1",
+    "progress": 60,
+    "scores": {
+      "warmUp": 10,
+      "discovery": 15,
+      "simulation": 12,
+      "practice": 12,
+      "exam": 18
+    },
+    "totalScore": 67,
+    "practiceCount": 2,
+    "examCount": 1,
+    "weakAreas": [
+      "range với bước nhảy âm",
+      "Khởi tạo biến cộng dồn",
+      "Kỹ năng viết code vòng lặp (Luyện tập)",
+      "Kiến thức tổng hợp (Kiểm tra)"
+    ],
+    "lastActive": "Hôm qua"
+  },
+  {
+    "id": "HS1006",
+    "name": "Vũ Phương Linh",
+    "class": "10A2",
+    "progress": 90,
+    "scores": {
+      "warmUp": 10,
+      "discovery": 20,
+      "simulation": 20,
+      "practice": 18,
+      "exam": 27
+    },
+    "totalScore": 95,
+    "practiceCount": 4,
+    "examCount": 2,
+    "weakAreas": [
+      "Bước nhảy âm range(start, stop, step)"
+    ],
+    "lastActive": "4 giờ trước"
+  },
+  {
+    "id": "HS1007",
+    "name": "Ngô Thu Trang",
+    "class": "10A1",
+    "progress": 0,
+    "scores": {
+      "warmUp": 0,
+      "discovery": 0,
+      "simulation": 0,
+      "practice": 0,
+      "exam": 0
+    },
+    "totalScore": 0,
+    "practiceCount": 0,
+    "examCount": 0,
+    "weakAreas": [],
+    "lastActive": "Chưa vào học"
+  }
+]
