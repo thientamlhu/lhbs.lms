@@ -1,0 +1,612 @@
+I. VAI TRÒ VÀ NHIỆM VỤ
+Bạn là một nhóm chuyên gia công nghệ giáo dục và phát triển phần mềm, gồm:
+	1. Senior Full-Stack Developer chuyên React, TypeScript, Node.js và Firebase.
+	2. Senior UI/UX Designer chuyên thiết kế ứng dụng giáo dục Digital Education, Modern UI, Mobile First.
+	3. Chuyên gia thiết kế dạy học môn Tin học THPT theo Chương trình GDPT 2018.
+	4. Chuyên gia lập trình Python và phát triển mô phỏng thuật toán.
+	5. Chuyên gia tích hợp Gemini AI vào các ứng dụng giáo dục.
+	6. Chuyên gia LMS Moodle, chuẩn SCORM 1.2 và LTI 1.3 Advantage.
+	7. Chuyên gia khảo thí, đánh giá năng lực và phân tích dữ liệu học tập.
+NHIỆM VỤ CỐT LÕI:
+Hãy trực tiếp thiết kế và xây dựng một ứng dụng web học tập tương tác hoàn chỉnh, có tên:
+PYLIST AI – HỌC PYTHON TƯƠNG TÁC CÙNG AI
+	• Môn học: Tin học 10.
+	• Bộ sách: Kết nối tri thức với cuộc sống.
+	• Bài 22: Kiểu dữ liệu danh sách.
+	• Đối tượng: Học sinh lớp 10 THPT.
+	• Ngôn ngữ giao diện: Tiếng Việt.
+	• Nền tảng xây dựng: Google AI Studio Build.
+	• Nền tảng triển khai: Web và LMS Moodle.
+	• Phong cách: Digital Education, Modern UI, Mobile First.
+YÊU CẦU QUAN TRỌNG:
+Tôi không yêu cầu một bản mô tả ý tưởng hoặc một trang web minh họa tĩnh.
+Hãy tạo mã nguồn và ứng dụng hoạt động thực tế với giao diện hoàn chỉnh, nội dung bài học chính xác, các mô phỏng tương tác, bài tập tự chấm, kiểm tra, thống kê, AI chatbot và kiến trúc tích hợp Moodle.
+Triển khai lần lượt các mô-đun, nhưng phải cung cấp một ứng dụng thống nhất có thể chạy thử trực tiếp trong Preview.
+Không tạo nút bấm giả, không hiển thị số liệu giả dưới dạng kết quả học tập thực, không giả lập kết nối Moodle thành kết nối thành công.
+II. NGUỒN HỌC LIỆU VÀ NGUYÊN TẮC SƯ PHẠM
+Tôi đính kèm tệp:
+Bai22_Kieu du lieu Danh Sach.pdf
+Đây là nguồn nội dung chính, gồm 4 trang SGK, tương ứng trang 111–114.
+Trước khi lập trình, hãy phân tích tài liệu để xác định:
+	• Mục tiêu và yêu cầu cần đạt.
+	• Những đơn vị kiến thức trọng tâm.
+	• Các ví dụ và kết quả thực thi Python.
+	• Các hoạt động khám phá.
+	• Các nhiệm vụ thực hành.
+	• Câu hỏi luyện tập.
+	• Yêu cầu vận dụng.
+Giữ đúng bản chất kiến thức và phạm vi của SGK. Được phép diễn đạt lại theo hướng dễ hiểu, trực quan, bổ sung ví dụ và hoạt động tương tác, nhưng không được thay đổi quy tắc Python.
+Nếu không đọc được PDF, sử dụng hệ thống nội dung chuẩn tôi mô tả bên dưới. Không tự tuyên bố đã phân tích tệp khi thực tế chưa truy cập được.
+1. Mục tiêu bài học
+Sau khi hoàn thành bài học, học sinh có thể:
+	• Trình bày được khái niệm kiểu dữ liệu danh sách list trong Python.
+	• Khởi tạo được danh sách và danh sách rỗng.
+	• Xác định được chỉ số và truy cập đúng phần tử.
+	• Sử dụng được len() để xác định độ dài danh sách.
+	• Thay đổi và xóa được phần tử bằng lệnh phù hợp.
+	• Ghép được hai danh sách bằng toán tử +.
+	• Viết được vòng lặp for kết hợp range() để duyệt danh sách.
+	• Sử dụng được phương thức append() để thêm phần tử.
+	• Vận dụng kiến thức để giải quyết một số bài toán đơn giản.
+Mỗi mục tiêu phải gắn với ít nhất một hoạt động hoặc câu hỏi đánh giá.
+2. Kiến thức 1 – Kiểu dữ liệu danh sách
+Xây dựng nội dung và mô phỏng các ví dụ:
+A = [1, 2, 3, 4, 5]
+B = [1.5, 2, "Python", "List", 0]
+Làm rõ rằng một danh sách có thể chứa các phần tử thuộc nhiều kiểu dữ liệu.
+Giải thích:
+	• Cú pháp tạo danh sách.
+	• Dấu ngoặc vuông [].
+	• Chỉ số bắt đầu từ 0.
+	• Phân biệt chỉ số và giá trị phần tử.
+	• Truy cập A[0], B[2].
+	• Lấy độ dài bằng len(A).
+	• Danh sách rỗng [].
+	• Thay đổi phần tử bằng phép gán.
+	• Xóa phần tử bằng del.
+	• Ghép hai danh sách bằng +.
+Mô phỏng trực quan:
+A = [1, 2, 3, 4, 5]
+A[1] = "One"
+Kết quả:
+[1, "One", 3, 4, 5]
+Sau đó:
+del A[4]
+Kết quả:
+[1, "One", 3, 4]
+Bổ sung tình huống lỗi chỉ số:
+Với danh sách có 8 phần tử, chỉ số hợp lệ từ 0 đến 7. Truy cập A[len(A)] gây IndexError.
+Giải thích rõ nguyên nhân và cách khắc phục.
+3. Kiến thức 2 – Duyệt danh sách
+Giới thiệu vòng lặp:
+for i in range(len(A)):
+Giải thích biến i, vùng giá trị của range() và cách sử dụng A[i].
+Mô phỏng:
+A = [1, 2, 3, 4, 5]
+for i in range(len(A)):
+ print(A[i], end=" ")
+Kết quả:
+1 2 3 4 5
+Ví dụ tiếp theo:
+A = [3, 2, 1, 5, 6, 10, 7, 12, 18]
+Sử dụng range(2, 5) để duyệt các chỉ số 2, 3, 4, thu được các giá trị 1 5 6.
+Bổ sung hai ứng dụng trong SGK:
+	• Tính tổng các phần tử dương trong danh sách.
+	• Đếm số phần tử dương trong danh sách.
+Có thêm bài toán in các số chẵn từ dãy số nguyên.
+Mỗi bước duyệt phải được trực quan hóa bằng màu sắc, con trỏ và biến trạng thái.
+4. Kiến thức 3 – Thêm phần tử bằng append()
+Sử dụng ví dụ:
+A = [1, 2]
+A.append(10)
+Kết quả:
+[1, 2, 10]
+Giải thích append() thêm một phần tử vào cuối danh sách và làm tăng độ dài danh sách thêm 1.
+Minh họa tiếp ví dụ:
+A = [2, 4, 10, 1, 0]
+A.append(100)
+del A[1]
+Kết quả cuối:
+[2, 10, 1, 0, 100]
+So sánh các thao tác:
+	• append(x): thêm một phần tử vào cuối.
+	• [x] + A: tạo danh sách mới có phần tử x ở đầu.
+	• del A[i]: xóa phần tử tại chỉ số i.
+Phân biệt rõ thao tác trực tiếp trên danh sách với thao tác tạo danh sách mới.
+5. Nội dung thực hành theo SGK
+Nhiệm vụ 1: Quản lý danh sách học sinh
+Nhập số lượng học sinh, nhập tên từng học sinh vào một danh sách bằng append(), sau đó duyệt và in các tên, mỗi tên trên một dòng.
+Nhiệm vụ 2: Xử lý dãy số nguyên
+Nhập n số nguyên, lưu vào danh sách, tính tổng, tính trung bình cộng và in các phần tử trên một dòng.
+Luyện tập:
+	• Viết lệnh xóa phần tử cuối cùng của danh sách.
+	• Thêm một phần tử mới vào đầu danh sách.
+Vận dụng:
+Viết chương trình tìm giá trị và chỉ số của phần tử lớn nhất trong danh sách. Thực hiện tương tự với phần tử nhỏ nhất.
+Cần xử lý an toàn trường hợp danh sách rỗng, n bằng 0 và các phần tử lớn nhất hoặc nhỏ nhất xuất hiện nhiều lần.
+Đối với các trường hợp bằng nhau, quy ước trả về chỉ số xuất hiện đầu tiên và thông báo rõ quy ước.
+III. THIẾT KẾ GIAO DIỆN – UI/UX
+Thiết kế một ứng dụng có chất lượng giao diện tương đương nền tảng EdTech hiện đại.
+1. Ngôn ngữ thiết kế
+	• Digital Education.
+	• Modern SaaS Dashboard.
+	• Interactive Learning Platform.
+	• Mobile First.
+	• Clean Layout.
+	• Card-based Interface.
+	• Micro-interactions.
+	• Gamification tinh tế.
+Định hướng màu sắc:
+	• Xanh navy: nền và tiêu đề chính.
+	• Xanh dương: hành động và thành phần tương tác.
+	• Tím: tính năng AI.
+	• Xanh ngọc: trạng thái thành công.
+	• Cam hoặc vàng: thông tin cần chú ý.
+	• Nền trắng hoặc xám rất nhạt giúp dễ đọc.
+Sử dụng font Be Vietnam Pro hoặc font hỗ trợ tiếng Việt tương đương. Mã Python hiển thị bằng font monospace như JetBrains Mono.
+Có chế độ sáng và tối.
+2. Bố cục trên máy tính
+Thanh điều hướng bên trái chứa:
+	1. Tổng quan.
+	2. Mục tiêu.
+	3. Khởi động.
+	4. Khám phá kiến thức.
+	5. Hình ảnh tương tác.
+	6. Python Lab.
+	7. Luyện tập.
+	8. Vận dụng.
+	9. Kiểm tra.
+	10. Kết quả học tập.
+Thanh phía trên hiển thị tên ứng dụng, tiến độ học, tên học sinh, lớp, trạng thái Moodle và nút mở AI chatbot.
+Khu vực chính hiển thị nội dung bài học với thẻ kiến thức, sơ đồ, ví dụ và công cụ tương tác.
+3. Giao diện trên điện thoại
+	• Responsive hoàn chỉnh cho màn hình từ 320px.
+	• Menu điều hướng có thể thu gọn.
+	• Các nút dễ bấm bằng ngón tay.
+	• Tương tác kéo thả có phương án chạm để lựa chọn.
+	• Không có thanh cuộn ngang ngoài ý muốn.
+	• Trình soạn thảo mã và vùng kết quả dễ sử dụng.
+	• Chatbot AI mở trong panel hoặc bottom sheet.
+4. Chất lượng trải nghiệm
+Tích hợp:
+	• Progress bar thể hiện tiến trình bài học.
+	• Hoạt ảnh chuyển bước.
+	• Highlight phần tử đang xử lý.
+	• Toast thông báo.
+	• Skeleton loading.
+	• Empty states.
+	• Error states và nút thử lại.
+	• Responsive chart.
+	• Nút quay lại và tiếp tục.
+	• Lưu tự động khi chuyển phần học.
+Hiệu ứng vừa phải, không gây mất tập trung vào nội dung học tập.
+Đảm bảo độ tương phản tốt, khả năng điều hướng bằng bàn phím và hỗ trợ người dùng có nhu cầu tiếp cận đặc biệt.
+IV. TÀI KHOẢN HỌC SINH VÀ ĐĂNG NHẬP
+Ứng dụng phải có hai chế độ nhận diện học sinh.
+Chế độ A – Truy cập trực tiếp
+Hiển thị biểu mẫu:
+	• Mã học sinh.
+	• Họ và tên.
+	• Lớp.
+Các trường có kiểm tra dữ liệu đầu vào.
+Cho phép vào học ở chế độ demo mà chưa kết nối LMS. Dữ liệu và điểm demo được phân biệt rõ với dữ liệu chính thức.
+Lưu ý: Việc học sinh tự khai mã, tên, lớp không được coi là xác thực danh tính. Không được dùng dữ liệu tự khai để cấp quyền giáo viên hoặc quyền xem điểm của học sinh khác.
+Chế độ B – Đăng nhập qua Moodle
+Khi học sinh truy cập từ Moodle:
+	• Đọc ID và tên từ các trường Moodle thực sự cung cấp.
+	• Tự điền thông tin phù hợp.
+	• Không bắt học sinh nhập lại thông tin đã có.
+	• Không cho phép tự ý thay đổi ID đã xác thực.
+	• Lớp lấy từ ánh xạ dữ liệu Moodle được quản trị viên cấu hình; nếu không có thì yêu cầu bổ sung.
+	• Phân biệt rõ mã định danh Moodle và mã học sinh riêng của nhà trường.
+Nếu có LTI 1.3 hợp lệ, dùng thông tin phiên đăng nhập được xác minh phía máy chủ.
+Nếu chưa có kết nối, hiển thị trạng thái "Chế độ độc lập – Chưa kết nối Moodle".
+V. XÂY DỰNG 8 GIAI ĐOẠN HỌC TẬP
+Giai đoạn 1 – Mục tiêu bài học
+Thiết kế màn hình mục tiêu bằng các thẻ trực quan.
+Mỗi mục tiêu có biểu tượng, nội dung ngắn, mức độ yêu cầu và liên kết đến hoạt động tương ứng.
+Có nút "Bắt đầu bài học".
+Giai đoạn 2 – Khởi động
+Xây dựng tình huống:
+"Một lớp có nhiều học sinh. Nếu cần lưu tên của tất cả học sinh trong Python, em sẽ tổ chức dữ liệu như thế nào?"
+Hiển thị những thẻ tên học sinh hư cấu.
+Cho học sinh lựa chọn giữa việc sử dụng nhiều biến riêng lẻ và một danh sách.
+Sau khi lựa chọn, hiển thị phản hồi và dẫn dắt vào bài học.
+Không chấm sai những cách giải hợp lý khi câu hỏi mang tính khám phá.
+Giai đoạn 3 – Khám phá kiến thức
+Chia thành ba bài học nhỏ:
+3.1. Kiểu dữ liệu danh sách
+Có mô hình trực quan của list, chỉ số 0, 1, 2..., giá trị tương ứng.
+Học sinh được bấm vào từng phần tử để xem giá trị và cú pháp truy cập.
+3.2. Duyệt các phần tử
+Có mô phỏng vòng lặp for.
+Học sinh quan sát chỉ số thay đổi, phần tử đang xét và kết quả in ra.
+3.3. Thêm phần tử
+Có mô phỏng append(), thay đổi độ dài trước và sau khi thêm.
+Mỗi nội dung có đủ bốn thành phần:
+	1. Giải thích kiến thức.
+	2. Ví dụ Python.
+	3. Tương tác thực hành.
+	4. Câu hỏi kiểm tra nhanh.
+Giai đoạn 4 – Hình ảnh tương tác và mô phỏng
+Tạo ít nhất 5 mô phỏng hoạt động thực sự:
+Mô phỏng 1 – List Index Explorer
+Hiển thị danh sách gồm các ô.
+Học sinh chọn chỉ số và quan sát phần tử được highlight.
+Mô phỏng 2 – List Operations
+Có các nút:
+	• Thêm phần tử.
+	• Sửa phần tử.
+	• Xóa phần tử.
+	• Ghép danh sách.
+	• Làm lại.
+Sau mỗi thao tác, danh sách thay đổi trực tiếp và đoạn lệnh Python tương ứng được hiển thị.
+Mô phỏng 3 – Append Animation
+Học sinh nhập một giá trị, nhấn append() và xem phần tử mới xuất hiện ở cuối danh sách.
+Mô phỏng 4 – For Loop Visualizer
+Hiển thị đồng thời:
+	• Mã Python.
+	• Biến i.
+	• Chỉ số hiện tại.
+	• Giá trị A[i].
+	• Vùng kết quả.
+Có các nút Chạy, Tạm dừng, Bước tiếp theo, Đặt lại và điều chỉnh tốc độ.
+Mô phỏng 5 – Algorithm Visualizer
+Cho phép chọn:
+	• Tính tổng.
+	• Đếm số dương.
+	• Tìm số lớn nhất.
+	• Tìm số nhỏ nhất.
+Khi chạy, tô sáng từng phần tử và cập nhật biến theo từng bước.
+Các mô phỏng phải thực thi đúng logic, không phải video giả lập.
+Giai đoạn 5 – Python Lab
+Tạo một môi trường thực hành Python đơn giản, phù hợp học sinh lớp 10.
+Giao diện gồm:
+	• Trình soạn thảo mã.
+	• Vùng nhập dữ liệu khi cần.
+	• Nút Chạy.
+	• Nút Đặt lại.
+	• Vùng hiển thị kết quả.
+	• Vùng thông báo lỗi.
+	• Nút Xem gợi ý AI.
+Cho phép học sinh thực hiện các bài tập từ SGK.
+Ưu tiên sử dụng trình thực thi Python có kiểm soát trong môi trường cô lập, hoặc xây dựng bộ mô phỏng cú pháp Python giới hạn đúng phạm vi bài học.
+Không sử dụng eval() JavaScript để chạy mã học sinh.
+Nếu chỉ hỗ trợ tập con của Python, phải thông báo chính xác giới hạn đó. Không quảng cáo là trình thông dịch Python đầy đủ.
+Nếu dùng Pyodide hoặc công nghệ tương tự, chú ý giới hạn tài nguyên, ngắt chương trình chạy quá lâu, quản lý phụ thuộc, và tương thích khi nhúng trong Moodle.
+Tạo sẵn 4 bài thực hành:
+	1. Khởi tạo và truy cập danh sách.
+	2. Duyệt danh sách bằng for.
+	3. Nhập và tính tổng, trung bình của dãy số.
+	4. Tìm giá trị lớn nhất và nhỏ nhất.
+Có gợi ý theo từng bước, không tự cung cấp toàn bộ đáp án ngay.
+Giai đoạn 6 – Luyện tập
+Xây dựng 8 câu hỏi tương tác, mỗi câu 5 điểm.
+Tổng điểm luyện tập: 40.
+Kết hợp các dạng:
+	• Trắc nghiệm bốn lựa chọn.
+	• Đúng/Sai.
+	• Điền lệnh Python.
+	• Dự đoán kết quả.
+	• Sắp xếp thứ tự lệnh.
+	• Chọn phần tử theo chỉ số.
+	• Tìm lỗi chương trình.
+	• Bài toán ngắn áp dụng for hoặc append().
+Mỗi câu cần có nội dung, đáp án chuẩn, giải thích, kiến thức liên quan và mức độ nhận thức.
+Câu hỏi phải có kết quả xác định và không mơ hồ.
+Chấm tự động theo đáp án hoặc tiêu chí đã khai báo, không phụ thuộc vào câu trả lời tùy ý của AI.
+Giai đoạn 7 – Vận dụng
+Tạo các nhiệm vụ:
+Nhiệm vụ 1: Viết chương trình quản lý danh sách tên học sinh.
+Nhiệm vụ 2: Nhập dãy số nguyên, tính tổng và trung bình cộng.
+Nhiệm vụ 3: Tìm số lớn nhất và chỉ số của nó.
+Nhiệm vụ 4: Tìm số nhỏ nhất và chỉ số của nó.
+Với mỗi nhiệm vụ cung cấp:
+	• Mô tả.
+	• Dữ liệu đầu vào.
+	• Kết quả cần đạt.
+	• Trình soạn thảo mã.
+	• Bộ trường hợp kiểm thử.
+	• Gợi ý khi học sinh gặp khó khăn.
+	• Phản hồi kết quả.
+Có đánh giá theo tiêu chí và ghi nhận mức độ hoàn thành.
+Giai đoạn 8 – Kiểm tra cuối bài
+Tạo bài kiểm tra gồm 10 câu, mỗi câu 6 điểm.
+Tổng điểm kiểm tra: 60.
+Phân bổ:
+	• Nhận biết: 3 câu.
+	• Thông hiểu: 4 câu.
+	• Vận dụng: 3 câu.
+Nội dung phủ đủ các đơn vị kiến thức trong bài.
+Có bộ câu hỏi lớn hơn 10 câu để chọn đề khác nhau giữa các lần làm, nhưng vẫn phải giữ mức độ tương đương.
+Hệ thống phải:
+	• Hiển thị số câu và tiến độ.
+	• Cho chuyển câu.
+	• Lưu đáp án trước khi nộp.
+	• Cảnh báo khi còn câu chưa trả lời.
+	• Chấm khi học sinh xác nhận nộp.
+	• Không tiết lộ đáp án trước khi nộp.
+	• Hiển thị điểm và phản hồi sau khi hoàn thành.
+	• Cho phép làm lại tối đa 3 lần theo cấu hình.
+	• Lưu từng lần làm và điểm cao nhất.
+Tất cả đáp án phải được thẩm định bằng quy tắc Python thực tế và bộ kiểm thử tự động.
+VI. HỆ THỐNG CHẤM ĐIỂM
+Sử dụng thang điểm 100:
+	• Luyện tập: 40 điểm.
+	• Kiểm tra cuối bài: 60 điểm.
+Điểm tổng = Điểm luyện tập + Điểm kiểm tra.
+Mức đánh giá mặc định:
+	• 90–100: Xuất sắc.
+	• 80–89: Tốt.
+	• 70–79: Đạt.
+	• 50–69: Cần cố gắng.
+	• Dưới 50: Cần hỗ trợ.
+Mốc hoàn thành đạt yêu cầu: 70 điểm.
+Cho phép giáo viên thay đổi cấu hình điểm và số lần làm.
+Tất cả phép tính điểm phải được thực hiện từ dữ liệu câu trả lời thực tế.
+Không sử dụng điểm ngẫu nhiên.
+Đối với bài tập lập trình, dùng bộ kiểm thử và tiêu chí đánh giá xác định. AI chỉ hỗ trợ nhận xét bổ sung, không được tự thay đổi điểm khách quan.
+Nếu đồng bộ về Moodle, chỉ gửi điểm chính thức theo chính sách đã chọn, tránh ghi đè nhầm bằng điểm của một lần làm chưa hoàn thành.
+VII. TÍCH HỢP AI CHATBOT
+Tạo trợ giảng AI có tên:
+PYLIST AI TUTOR
+Sử dụng Gemini API bằng mô hình được Google AI Studio hiện hỗ trợ.
+Nhiệm vụ của chatbot
+	• Giải thích kiến thức về danh sách trong Python.
+	• Trả lời câu hỏi học sinh bằng tiếng Việt.
+	• Giải thích lệnh len(), append(), del, for, range().
+	• Hướng dẫn học sinh sửa lỗi Python.
+	• Phân tích kết quả chạy chương trình.
+	• Đặt câu hỏi gợi mở.
+	• Đề xuất bài tập phù hợp với mức độ học sinh.
+	• Hỗ trợ học sinh chưa hiểu một nội dung.
+	• Giải thích lỗi IndexError.
+Cách hoạt động
+Chatbot nhận ngữ cảnh bài học hiện tại và câu hỏi đang thực hiện.
+Ví dụ học sinh hỏi:
+"Tại sao A[0] là phần tử đầu tiên?"
+AI cần giải thích ngắn gọn, dễ hiểu, có ví dụ trực quan.
+Nếu học sinh nhập mã sai, AI chỉ rõ lỗi và hướng khắc phục.
+Trong luyện tập, AI ưu tiên gợi ý từng bước.
+Trong lúc làm bài kiểm tra chính thức, chatbot không được cung cấp đáp án trực tiếp.
+Nếu mất kết nối AI, hiển thị thông báo rõ ràng và vẫn cho phép sử dụng nội dung, mô phỏng, bài tập không phụ thuộc AI.
+Yêu cầu kỹ thuật
+	• Gọi Gemini API từ phía máy chủ.
+	• Dùng GEMINI_API_KEY thông qua cơ chế Secrets.
+	• Không để API key trong trình duyệt.
+	• Có giới hạn số lượt gọi, giới hạn độ dài đầu vào và xử lý lỗi.
+	• Không gửi thông tin định danh không cần thiết của học sinh vào prompt.
+	• Chống prompt injection từ nội dung người học.
+	• Đưa kiến thức SGK đã chuẩn hóa vào ngữ cảnh trả lời.
+	• Không tự bịa chức năng Python hoặc khẳng định sai kiến thức.
+VIII. THỐNG KÊ KẾT QUẢ HỌC TẬP
+1. Dashboard học sinh
+Hiển thị:
+	• Mã học sinh.
+	• Họ và tên.
+	• Lớp.
+	• Bài đang học.
+	• Phần trăm tiến độ.
+	• Điểm luyện tập.
+	• Điểm kiểm tra.
+	• Điểm tổng.
+	• Số lần làm bài.
+	• Trạng thái hoàn thành.
+	• Các kiến thức cần ôn tập.
+Có biểu đồ tiến trình và biểu đồ kết quả.
+Cho học sinh xem lịch sử các lần làm của chính mình.
+2. Dashboard giáo viên
+Chỉ tài khoản có quyền giáo viên được xác thực mới có thể truy cập dữ liệu thực.
+Cung cấp:
+	• Danh sách học sinh theo lớp.
+	• Số học sinh tham gia.
+	• Số học sinh đã hoàn thành.
+	• Điểm trung bình.
+	• Tỷ lệ đạt.
+	• Phân bố điểm.
+	• Danh sách học sinh cần hỗ trợ.
+	• Các câu hỏi có tỷ lệ sai cao.
+	• Kết quả theo từng mạch kiến thức.
+	• Lịch sử các lần làm bài.
+Có bộ lọc theo lớp, học sinh và trạng thái.
+Cho phép xuất CSV với dữ liệu thuộc phạm vi quản lý được cấp quyền.
+Không hiển thị dữ liệu cá nhân học sinh cho học sinh khác.
+IX. TÍCH HỢP LMS MOODLE
+Xây dựng hai giải pháp tích hợp riêng biệt.
+Phương án A – LTI 1.3 Advantage
+Đây là phương án ưu tiên khi triển khai ứng dụng có máy chủ AI.
+Xây dựng mô-đun LTI có khả năng:
+	1. Nhận yêu cầu khởi chạy từ Moodle.
+	2. Thực hiện OIDC login và xác minh thông điệp khởi chạy.
+	3. Xác thực issuer, client ID, audience, state, nonce và chữ ký.
+	4. Nhận định danh học sinh và vai trò khi Moodle cho phép.
+	5. Gắn kết học sinh với lớp học hoặc khóa học tương ứng.
+	6. Lưu kết quả gắn với người học và hoạt động.
+	7. Đồng bộ điểm qua Assignment and Grade Services khi Moodle cấp quyền.
+	8. Hỗ trợ truy vấn danh sách lớp bằng Names and Roles Provisioning Services nếu được cấp phép.
+Cung cấp các endpoint, cấu hình và hướng dẫn đăng ký LTI cần thiết.
+Không tuyên bố kết nối thành công trước khi được cấu hình và kiểm thử trên Moodle.
+Phương án B – SCORM 1.2
+Tạo bản frontend có thể đóng gói dạng SCORM 1.2.
+Yêu cầu:
+	• Có tệp imsmanifest.xml hợp lệ.
+	• Có trang khởi chạy nội dung.
+	• Có mã tìm và kết nối SCORM API.
+	• Khởi tạo phiên bằng LMSInitialize.
+	• Đọc cmi.core.student_id.
+	• Đọc cmi.core.student_name.
+	• Ghi cmi.core.score.raw.
+	• Ghi cmi.core.lesson_status.
+	• Lưu vị trí bằng cmi.core.lesson_location.
+	• Lưu trạng thái ngắn gọn bằng cmi.suspend_data.
+	• Gọi LMSCommit và LMSFinish phù hợp.
+Tuân thủ giới hạn dung lượng dữ liệu của SCORM 1.2.
+Không giả định SCORM tự cung cấp trường lớp hoặc mã học sinh tùy chỉnh.
+Nếu AI hoặc cơ sở dữ liệu yêu cầu máy chủ ngoài, phải tách frontend SCORM khỏi backend được triển khai qua HTTPS và cấu hình kết nối phù hợp.
+Không đưa Gemini API key vào gói SCORM.
+Tạo script đóng gói ZIP và tài liệu hướng dẫn sử dụng Moodle. Nếu chưa thể tạo ZIP ngay trong môi trường phát triển, phải tạo đầy đủ mã và script xuất gói, đồng thời nêu rõ việc nào chưa hoàn thành.
+X. THIẾT KẾ CƠ SỞ DỮ LIỆU
+Ưu tiên Firebase Firestore hoặc hệ thống lưu trữ tương đương phù hợp Google AI Studio.
+Thiết kế các nhóm dữ liệu:
+students
+	• id
+	• studentCode
+	• moodleUserId
+	• fullName
+	• className
+	• courseId
+	• createdAt
+learningProgress
+	• studentId
+	• lessonId
+	• completedSections
+	• progressPercentage
+	• lastActivity
+	• updatedAt
+quizAttempts
+	• attemptId
+	• studentId
+	• lessonId
+	• answers
+	• practiceScore
+	• finalTestScore
+	• totalScore
+	• startedAt
+	• submittedAt
+	• status
+activityResults
+	• studentId
+	• activityId
+	• result
+	• feedback
+	• completedAt
+lmsSyncLogs
+	• studentId
+	• activityId
+	• platform
+	• score
+	• syncStatus
+	• lastError
+	• syncedAt
+Thiết kế khóa liên kết, chỉ mục và chính sách phân quyền hợp lý.
+Đảm bảo:
+	• Học sinh chỉ được xem dữ liệu của chính mình.
+	• Giáo viên chỉ xem dữ liệu lớp hoặc khóa học được phân quyền.
+	• Không để điểm và quyền truy cập được quyết định chỉ bằng dữ liệu phía trình duyệt.
+	• Dữ liệu nhập vào được kiểm tra ở phía máy chủ.
+	• Có cơ chế tránh ghi điểm trùng hoặc ghi sai khi kết nối gián đoạn.
+	• Có thông báo lưu thành công, đang lưu hoặc lưu thất bại.
+Chế độ demo có thể sử dụng dữ liệu mẫu hư cấu, nhưng phải gắn nhãn rõ ràng và tách biệt với dữ liệu thật.
+XI. KIẾN TRÚC VÀ CÔNG NGHỆ
+Sử dụng kiến trúc có tổ chức, dễ mở rộng và bảo trì.
+Frontend:
+	• React.
+	• TypeScript.
+	• Tailwind CSS.
+	• Lucide Icons.
+	• Recharts hoặc thư viện biểu đồ tương đương.
+	• React Router hoặc giải pháp điều hướng phù hợp.
+	• Trình soạn thảo mã có syntax highlighting.
+Backend:
+	• Node.js.
+	• API phục vụ AI và dữ liệu học tập.
+	• Gemini API SDK chính thức.
+	• Firebase Firestore hoặc cơ sở dữ liệu tương đương.
+	• Các dịch vụ xác thực và tích hợp Moodle.
+Tách riêng các thành phần:
+	• Lesson Content.
+	• Student Profile.
+	• Interactive Visualizer.
+	• Python Lab.
+	• Question Bank.
+	• Scoring Engine.
+	• AI Tutor.
+	• Learning Analytics.
+	• Moodle Adapter.
+	• Teacher Dashboard.
+Ngân hàng câu hỏi, nội dung bài học và đáp án chuẩn cần được lưu dưới dạng dữ liệu có cấu trúc để dễ thay đổi.
+Không viết toàn bộ ứng dụng trong một component khổng lồ.
+Có cơ chế xử lý lỗi và trạng thái dự phòng.
+Ưu tiên khả năng hoạt động ổn định trên trình duyệt máy tính và điện thoại.
+XII. KIỂM THỬ BẮT BUỘC
+Trước khi kết thúc, phải tự kiểm thử các tình huống:
+	1. Truy cập ứng dụng bằng điện thoại và máy tính.
+	2. Nhập hồ sơ học sinh ở chế độ demo.
+	3. Khởi tạo danh sách.
+	4. Chọn phần tử theo chỉ số.
+	5. Thực hiện len().
+	6. Sửa và xóa phần tử.
+	7. Thêm phần tử bằng append().
+	8. Chạy mô phỏng vòng lặp for.
+	9. Tìm tổng và số phần tử dương.
+	10. Tìm giá trị lớn nhất và nhỏ nhất.
+	11. Làm đúng toàn bộ câu luyện tập và kiểm tra, đạt 100/100.
+	12. Làm sai một phần để kiểm tra kết quả chấm và phản hồi.
+	13. Rời bài học rồi quay lại để kiểm tra việc khôi phục tiến độ.
+	14. Kiểm tra chatbot khi kết nối AI thành công và khi API lỗi.
+	15. Kiểm tra phân quyền học sinh và giáo viên.
+	16. Kiểm tra trạng thái chưa kết nối Moodle.
+	17. Kiểm tra mã SCORM bằng môi trường giả lập API.
+	18. Kiểm tra quy trình LTI bằng cấu hình kiểm thử khi có thông số cần thiết.
+Các trường hợp lỗi cần được kiểm thử:
+	• Danh sách rỗng.
+	• Truy cập chỉ số ngoài phạm vi.
+	• Dữ liệu đầu vào không đúng.
+	• Chia cho 0.
+	• Không có mạng.
+	• Máy chủ AI không phản hồi.
+	• Lưu dữ liệu thất bại.
+	• Khởi chạy Moodle không hợp lệ.
+Không đánh dấu một tính năng là "Đã kiểm thử thành công" nếu chưa thực sự chạy thử.
+XIII. SẢN PHẨM ĐẦU RA
+Hãy tạo ra:
+Sản phẩm 1 – Web App hoàn chỉnh
+Ứng dụng có thể chạy trong Preview của Google AI Studio với tất cả mô-đun bài học, giao diện đẹp và các tương tác hoạt động.
+Sản phẩm 2 – AI Tutor
+Tích hợp Gemini AI ở phía máy chủ, có kiểm soát nội dung và lỗi.
+Sản phẩm 3 – Student Dashboard
+Lưu và xem kết quả học tập.
+Sản phẩm 4 – Teacher Dashboard
+Thống kê và quản lý kết quả theo phạm vi được phân quyền.
+Sản phẩm 5 – Moodle Integration
+Mã tích hợp LTI 1.3 và frontend/logic tương thích SCORM 1.2, kèm hướng dẫn cấu hình cụ thể.
+Sản phẩm 6 – Source Code
+Mã nguồn có cấu trúc rõ ràng, có thể tải xuống, bảo trì và phát triển tiếp.
+Sản phẩm 7 – Deployment Guide
+Hướng dẫn:
+	• Chạy thử trong Google AI Studio.
+	• Cấu hình Gemini API.
+	• Cấu hình cơ sở dữ liệu.
+	• Triển khai máy chủ.
+	• Đưa ứng dụng lên Moodle.
+	• Kiểm tra đồng bộ điểm.
+	• Xử lý các lỗi thường gặp.
+XIV. TIÊU CHÍ NGHIỆM THU
+Ứng dụng chỉ được xem là hoàn thành khi:
+	• Nội dung đúng Bài 22 của SGK.
+	• Giao diện hiện đại, có chất lượng và nhất quán.
+	• Hiển thị tốt trên điện thoại.
+	• Có đầy đủ các hoạt động học tập.
+	• Các mô phỏng thay đổi trạng thái thật.
+	• Mã Python và kết quả mẫu chính xác.
+	• Hệ thống chấm điểm hoạt động đúng.
+	• Tiến độ học tập được lưu trong chế độ đã cấu hình.
+	• AI Tutor gọi Gemini API thực tế khi được cấu hình.
+	• Có bảng kết quả học sinh và giáo viên.
+	• Có kiến trúc tích hợp Moodle đúng chuẩn.
+	• Phân biệt được phần đang chạy thực tế với phần cần cấu hình hệ thống ngoài.
+	• Không có lỗi runtime hoặc lỗi build nghiêm trọng.
+XV. CHỈ THỊ THỰC HIỆN CUỐI CÙNG
+BẮT ĐẦU XÂY DỰNG ỨNG DỤNG NGAY.
+Ưu tiên triển khai theo thứ tự:
+	1. Tạo cấu trúc dự án và thiết kế giao diện hoàn chỉnh.
+	2. Tích hợp nội dung SGK và các hoạt động học.
+	3. Xây dựng các mô phỏng Python tương tác.
+	4. Tạo luyện tập, kiểm tra và bộ chấm điểm.
+	5. Xây dựng lưu tiến độ và dashboard.
+	6. Tích hợp chatbot Gemini AI.
+	7. Xây dựng các mô-đun kết nối Moodle.
+	8. Kiểm tra, sửa lỗi và hoàn thiện.
+Hãy chủ động đưa ra quyết định kỹ thuật phù hợp và tạo ứng dụng hoạt động được ở từng giai đoạn.
+Nếu một chức năng cần thông số bên ngoài như Moodle URL, LTI Client ID hoặc khóa API, hãy tạo sẵn mã tích hợp, giao diện cấu hình và hướng dẫn thiết lập. Không chặn việc chạy thử toàn bộ ứng dụng chỉ vì thiếu các thông số này.
+TÔI MUỐN MỘT SẢN PHẨM EDTECH THỰC SỰ HOẠT ĐỘNG, CÓ THỂ DÙNG ĐỂ GIẢNG DẠY TIN HỌC 10 VÀ PHÁT TRIỂN THÀNH HỆ THỐNG HỌC TẬP TÍCH HỢP LMS MOODLE.
