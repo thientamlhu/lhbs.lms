@@ -1,0 +1,15 @@
+# GÓI TÍCH HỢP LMS MOODLE - SCORM 1.2
+Môn học: Tin học 11
+Bộ sách: Kết nối tri thức với cuộc sống
+Bài 13: Cơ sở dữ liệu quan hệ
+
+## Hướng dẫn đưa lên Moodle:
+1. Đăng nhập tài khoản Giáo viên trên Moodle LMS.
+2. Vào khóa học Tin học 11 -> Bật chế độ chỉnh sửa (Turn editing on).
+3. Nhấn "Thêm hoạt động hoặc tài nguyên" (Add an activity or resource).
+4. Chọn "Gói SCORM" (SCORM package).
+5. Kéo thả file .zip này vào ô Tải tệp lên.
+6. Thiết lập phần Đánh giá (Grade):
+   - Thang điểm: 10
+   - Phương pháp chấm: Điểm cao nhất hoặc lần làm bài cuối.
+7. Nhấn "Lưu và hiển thị". Ứng dụng sẽ tự động đồng bộ điểm số và trạng thái hoàn thành vào sổ điểm Moodle!
